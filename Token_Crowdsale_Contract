@@ -3,7 +3,7 @@ pragma solidity ^0.4.18;
 // ----------------------------------------------------------------------------
 // 'IBNZDEVELOPERSERC20_Crowdsale' CROWDSALE token contract
 //
-// Deployed to : 0x56a1eBC4f49FF7E28959944471A72DDB88665FcB
+// Deployed to : 0xa189aa1dd48c922cc8646865a284ffd27b4e882c
 // Symbol      : IBNZETH
 // Name        : IbnzEtc20TestToken
 // Total supply: 1000000000
